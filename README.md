@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ahmed Sheref</h1>
 <h3 align="center">A Passionate Android Developer From Egypt</h3>
 
