@@ -1,15 +1,51 @@
+# Ahmed Sheref - Android Developer
 
-<h1 align="center">Hi 👋, I'm Ahmed Sheref</h1>
-<h3 align="center">A Passionate Android Developer From Egypt</h3>
+👨‍💻 **About Me:**
 
-- 🔭 I’m currently working on **Semicolon,Ltd**
+I am an Android Developer with 3 years of experience, passionate about creating high-quality mobile applications. My journey in Android development has seen me work on a wide range of projects, from personal apps to complex enterprise solutions. I am always eager to learn and explore new technologies, and I enjoy collaborating with my team to achieve outstanding results.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmedsheref96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedsheref96" height="30" width="40" /></a>
-<a href="https://fb.com/sheef96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheef96" height="30" width="40" /></a>
-</p>
+📍 **Location:** Benha, Egypt  
+📧 **Email:** ahmed.sheref.3.96@gmail.com  
+🔗 **LinkedIn:** [AhmedSheref96](https://www.linkedin.com/in/ahmedsheref96/)  
+📱 **GitHub:** [AhmedSheref96](https://github.com/AhmedSheref96)  
+🎮 **Google Play Developer:** [My Apps](https://play.google.com/store/search?q=pub%3Aas3&c=apps)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 🔧 **Skills:**
+- **Programming Languages:** Kotlin, Java
+- **Architectural Patterns:** MVI, MVVM, MVP, Clean Architecture
+- **Networking:** Retrofit, Ktor, OkHttp, Socket Programming
+- **Firebase Services:** FCM, Crashlytics, Remote Config
+- **Asynchronous Tasks:** Coroutines, RxJava
+- **Dependency Injection:** Hilt, Koin, Dagger
+- **Android Jetpack Components:** Navigation, Paging, Data Store, Room, Compose UI
+- **Version Control:** GitHub, Bitbucket, GitLab
+- **Payment Gateway Integration:** Fawry, Paymob, UrWay (Saudi Arabia)
+- **CI/CD Knowledge:** Implementing continuous integration and deployment processes
+
+---
+
+## 💼 **Professional Experience:**
+- **Android Developer @ Misr Tech (2023 - Present):** Working on Android apps for mobile and POS devices like New POS & Pax.
+- **Android Developer @ Semicolonltd (2021 - 2023):** Developed and published various Android applications.
+- **Self-employed @ Google Play (2019 - Present):** Independently developed and published apps, including an intermittent fasting diet app.
+
+---
+
+## 🛠 **Projects:**
+- **Buses Ticketing (MisrTech):** POS device app for passenger ticketing and card charging.
+- **Mwasalat Misr:** Passenger app for trip management based on location.
+- **PetrojetHSE:** Built with Compose, MVVM, and Coroutines.
+- **Moqawalt Misr:** A comprehensive app for the contracting field, including map integration.
+- **Ton (Driver & User):** Developed a complex UI and integrated URWAY payment and FCM for shipment tracking.
+- **My-Utils:** Utility library with common tools for Android development, available on Jitpack.
+- **Healthy Diet Application:** Personal app for weight loss assistance.
+
+---
+
+## 📚 **Courses & Certifications:**
+- **Android TDD Masterclass:** Focus on Clean Architecture, Test-Driven Development, and advanced Android development techniques.
+- **Gradle for Android and Java**
+- **Advanced Android with Kotlin**
 
